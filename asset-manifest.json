@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/static/css/main.32aa53ed.css",
-    "main.js": "/static/js/main.621bf817.js",
+    "main.js": "/static/js/main.7b6aeaf1.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
-    "static/media/umbrella-academy.png": "static/media/umbrella-academy.96d9f8f6b66ba4b5d862.png",
-    "static/media/me.png": "static/media/me.94af09396f2762d667ed.png",
-    "static/media/pokemon-app.png": "static/media/pokemon-app.b74c80dfd4d7c3d7efe7.png",
+    "static/media/umbrella-academy.png": "/static/media/umbrella-academy.96d9f8f6b66ba4b5d862.png",
+    "static/media/me.png": "/static/media/me.94af09396f2762d667ed.png",
+    "static/media/pokemon-app.png": "/static/media/pokemon-app.b74c80dfd4d7c3d7efe7.png",
     "index.html": "/index.html",
     "main.32aa53ed.css.map": "/static/css/main.32aa53ed.css.map",
-    "main.621bf817.js.map": "/static/js/main.621bf817.js.map",
+    "main.7b6aeaf1.js.map": "/static/js/main.7b6aeaf1.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.32aa53ed.css",
-    "static/js/main.621bf817.js"
+    "static/js/main.7b6aeaf1.js"
   ]
 }
